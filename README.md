@@ -27,7 +27,7 @@ I’m passionate about clean code, learning modern development practices, and co
 - Conducted research on **self-driving car systems** (sensor fusion, computer vision, and decision-making).  
 - Designed a **Python-based course recommendation system** using machine learning algorithms.
 
-** 🖥️ Trainee Engineer (Telecom)**  
+**🖥️ Trainee Engineer (Telecom)**  
 *Sri Lanka Telecom PLC* | *Mar 2019 – Jun 2019*  
 - Gained field experience in **fiber-optic and wireless communication systems**.  
 - Supported network maintenance and customer service operations.
