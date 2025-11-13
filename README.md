@@ -3,7 +3,7 @@
 🎓 **BSc (Hons) in Electrical and Electronic Engineering**  
 💻 **Java Spring Boot Backend Developer (Beginner)**  
 
----
+------
 
 ## 🚀 About Me
 
@@ -11,6 +11,8 @@ I'm an **Electrical and Electronic Engineering graduate** currently focusing on 
 My goal is to design and build **scalable REST APIs**, work with **databases**, and deploy production-ready backend applications.  
 
 I’m passionate about clean code, learning modern development practices, and continuously improving my backend engineering skills.
+
+------
 
 ## 💼 Professional Experience
 
@@ -25,10 +27,12 @@ I’m passionate about clean code, learning modern development practices, and co
 - Conducted research on **self-driving car systems** (sensor fusion, computer vision, and decision-making).  
 - Designed a **Python-based course recommendation system** using machine learning algorithms.
 
-**📡 Trainee Engineer (Telecom)**  
+** 🖥️ Trainee Engineer (Telecom)**  
 *Sri Lanka Telecom PLC* | *Mar 2019 – Jun 2019*  
 - Gained field experience in **fiber-optic and wireless communication systems**.  
 - Supported network maintenance and customer service operations.
+
+------
 
 **🌐 Freelance Community Manager (Blockchain)**  
 *Remote* | *Jun 2023 – Oct 2025*  
@@ -36,17 +40,7 @@ I’m passionate about clean code, learning modern development practices, and co
 - Supported project documentation and community engagement strategies.  
 - Strengthened project communication and reporting across remote teams.
 
----
-
-## 🧩 Projects
-
-- **AMIGO Social Robot** – Speech recognition and facial tracking using Raspberry Pi and OpenCV  
-- **Course Recommendation System** – Machine learning model for personalized content  
-- **IoT Gate Control System** – Automated gate access using Arduino and number plate recognition  
-
-🏆 *Best Paper (First Runner-Up)* – IET Sri Lanka Network 29th Annual Technical Conference (2021)  
-📄 Title: *AMIGO – A Social Robot with Hearing and Vision Capabilities*
-
+------
 
 ## 🧠 Tech Stack
 
@@ -56,7 +50,7 @@ I’m passionate about clean code, learning modern development practices, and co
 - ☁️ **Cloud & Tools (Learning)** – AWS, Docker, Git, IntelliJ IDEA, Postman  
 - ⚙️ **Version Control** – Git & GitHub  
 
----
+------
 
 ## 📚 Currently Learning
 
@@ -66,17 +60,20 @@ I’m passionate about clean code, learning modern development practices, and co
 - Cloud deployment (AWS / Render)  
 - Writing clean, modular Java code  
 
----
+------
 
-## 💻 Projects (In Progress)
+## 💻 Projects
 
-- **Student Management API** – CRUD operations using Spring Boot + MySQL  
-- **Task Tracker Backend** – RESTful API to manage daily tasks  
-- **Portfolio API** – Backend for personal website data management  
+- **AMIGO Social Robot** – Speech recognition and facial tracking using Raspberry Pi and OpenCV  
+- **Course Recommendation System** – Machine learning model for personalized content  
+- **IoT Gate Control System** – Automated gate access using Arduino and number plate recognition
+
+🏆 *Best Paper (First Runner-Up)* – IET Sri Lanka Network 29th Annual Technical Conference (2021)  
+📄 Title: *AMIGO – A Social Robot with Hearing and Vision Capabilities*
 
 *(More backend projects coming soon!)*
 
----
+------
 
 ## 🎯 Goals
 
@@ -85,7 +82,7 @@ I’m passionate about clean code, learning modern development practices, and co
 - Gain experience in **cloud deployment and CI/CD pipelines**  
 - Work as a **remote backend developer** in a global team  
 
----
+------
 
 ## 🌐 Connect With Me
 
@@ -93,6 +90,10 @@ I’m passionate about clean code, learning modern development practices, and co
 - 💻 [GitHub](https://github.com/ruvini21)  
 - 📧 connectruvini@gmail.com  
 
----
+------
 
-⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+
+
+
+
