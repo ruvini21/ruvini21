@@ -7,10 +7,7 @@
 
 ## 🚀 About Me
 
-I'm an **Electrical and Electronic Engineering graduate** currently focusing on **backend development** using **Java Spring Boot**.  
-My goal is to design and build **scalable REST APIs**, work with **databases**, and deploy production-ready backend applications.  
-
-I’m passionate about clean code, learning modern development practices, and continuously improving my backend engineering skills.
+I'm an **Electrical and Electronic Engineering graduate** 
 
 ------
 
